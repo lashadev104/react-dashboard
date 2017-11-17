@@ -8,11 +8,9 @@ Simple React Dashboard
 
 ## Install
 
-...
-$ git clone https://github.com/lashadev104/react-dashboard.git
-$ npm install
-$ npm start
-...
+- $ git clone https://github.com/lashadev104/react-dashboard.git
+- $ npm install
+- $ npm start
 
 ## Features
 
